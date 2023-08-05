@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fishdog1201
 - 👀 I’m fresh in coding
-- 🌱 I’m currently learning Linux & C
+- 🌱 I’m currently learning Linux & C & C++
 - 📫 How to reach me zju21860025@gmail.com
 
 <!---
